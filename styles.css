@@ -1,0 +1,44 @@
+*{
+   
+    margin: 10px;
+    padding: 0px;
+}
+.container{
+    max-width: 80vw;
+}
+.navbar li{
+    list-style: none;
+    margin: 0 12px;
+}
+.navbar{
+    height: 55px;
+    display: flex;
+  
+}
+.height-img{
+ height: 75%;
+ width: 75%;
+ padding: 10px 10px 10px 10px;
+}
+.section-2  p{
+    padding-left: 128px;
+    padding-right: 63px;
+}
+.section-2 h1{
+    font-size: 8rem;
+}
+.box{
+    width: 20%;
+    border: 2px solid #009be6 ;
+   margin: 12px 22px; 
+}
+.box ul{
+    list-style: none;
+}
+.box ul li{
+   margin: 12px 2px;
+}
+.footer{
+  padding:23px;
+  text-align: center;
+}
